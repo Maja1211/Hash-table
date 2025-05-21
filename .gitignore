@@ -1,0 +1,19 @@
+# Build folders
+cmake-build-debug/
+build/
+bin/
+obj/
+
+# Prevedeni fajlovi
+*.exe
+*.obj
+*.o
+
+# IDE fajlovi (CLion, VSCode)
+.idea/
+.vscode/
+
+# Backup fajlovi
+*~
+*.log
+*.tmp
